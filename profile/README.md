@@ -14,5 +14,5 @@ Tegro
 
 ## Follow Us
 - [Twitter](https://twitter.com/TegroTON)
-- [Telegram](https://t.me/Tegro_Money)
-- [Telegram](https://t.me/Tegro_Money)
+- [Telegram Tonhold Wallet](https://t.me/TonExtension)
+- [Telegram Tegro Money](https://t.me/Tegro_Money)
