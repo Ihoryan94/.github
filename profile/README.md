@@ -13,6 +13,7 @@ Tegro
 - [🧨 ton-connector](https://github.com/TegroTON/Connector) - Connector on The Open Network
 
 ## Follow Us
-- [Twitter](https://twitter.com/TegroTON)
+- [Twitter Token](https://twitter.com/TegroTON)
+- [Twitter DEX](https://twitter.com/tegrodex)
 - [Telegram Tonhold Wallet](https://t.me/TonExtension)
 - [Telegram Tegro Money](https://t.me/Tegro_Money)
