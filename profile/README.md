@@ -10,7 +10,6 @@ Tegro
 ## Our Open-Source Projects
 - [🧨 ton3-contracts](https://github.com/TegroTON/ton3-contracts) - TON3 Contracts
 - [🧨 ton3-client](https://github.com/TegroTON/ton3-client) - TON3 Client
-- [🧨 ton-connector](https://github.com/TegroTON/Connector) - Connector on The Open Network
 
 ## Follow Us
 - [Twitter Token](https://twitter.com/TegroTON)
