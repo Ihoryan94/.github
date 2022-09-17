@@ -5,6 +5,13 @@
 This repo is just for gathering all issues under one roof.
 Created for TON Test challenge.
 
+Welcome to Tegro repository. If you have questions or suggestions, please file an [Issue](https://github.com/TegroTON/.github/blob/main/.github/ISSUE_TEMPLATE/bug_report.yaml).
+
+### Projects:
+- Payment Gateway — https://tegro.money
+- TON Wallet — https://tonhold.com
+- TON DEX — https://tegro.finance
+
 ## Rules
 
 ### How to submit 
