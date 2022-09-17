@@ -5,7 +5,7 @@
 This repo is just for gathering all issues under one roof.
 Created for TON Test challenge.
 
-Welcome to Tegro repository. If you have questions or suggestions, please file an [Issue](https://github.com/TegroTON/.github/blob/main/.github/ISSUE_TEMPLATE/bug_report.yaml).
+Welcome to Tegro repository. If you have questions or suggestions, please file an [Issue](https://github.com/TegroTON/.github/issues/new/choose).
 
 ### Projects:
 - Payment Gateway — https://tegro.money
@@ -36,4 +36,4 @@ Each TON ecosystem project team will examine and double-check all the issues in 
 
 The top participants will get a chance to join the core TON Foundation team as manual QA Engineers.
 
-Send here https://github.com/TegroTON/.github/blob/main/.github/ISSUE_TEMPLATE/bug_report.yaml
+Send here https://github.com/TegroTON/.github/issues/new?assignees=&labels=Bug+Report&template=bug_report.yaml
